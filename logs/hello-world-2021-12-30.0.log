@@ -1,0 +1,119 @@
+14:09:47.144 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8242ms to org.eclipse.jetty.util.log.Slf4jLog
+14:09:47.315 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+14:09:47.350 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@d28a805{/,null,AVAILABLE}
+14:09:47.401 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5d558d99{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+14:09:47.401 [main] INFO  org.eclipse.jetty.server.Server - Started @8502ms
+14:37:10.984 [qtp1345886082-20] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+14:37:25.891 [qtp1345886082-16] INFO  io.pedestal.http - {:msg "GET /greet", :line 80}
+14:37:38.643 [qtp1345886082-17] INFO  io.pedestal.http - {:msg "GET /greet", :line 80}
+14:37:46.163 [qtp1345886082-18] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+14:37:50.674 [qtp1345886082-23] INFO  io.pedestal.http - {:msg "GET /", :line 80}
+14:38:22.397 [qtp1345886082-22] INFO  io.pedestal.http - {:msg "GET /about", :line 80}
+14:40:18.348 [qtp1345886082-18] INFO  io.pedestal.http - {:msg "GET /about", :line 80}
+14:40:41.605 [qtp1345886082-23] INFO  io.pedestal.http - {:msg "GET /about", :line 80}
+14:41:30.839 [qtp1345886082-22] INFO  io.pedestal.http - {:msg "GET /about", :line 80}
+15:35:51.436 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:35:51.439 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@27c24410{/,null,AVAILABLE}
+15:38:11.194 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:38:11.196 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@973da20{/,null,AVAILABLE}
+15:38:16.365 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:38:16.367 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@719fb78c{/,null,AVAILABLE}
+15:38:17.561 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:38:17.564 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3e4ecf99{/,null,AVAILABLE}
+15:38:25.280 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:38:25.282 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5b2bc10c{/,null,AVAILABLE}
+15:39:41.311 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:39:41.312 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@3b16c869{/,null,AVAILABLE}
+15:40:04.739 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:40:04.741 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@4a0d842{/,null,AVAILABLE}
+15:40:47.192 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:40:47.195 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5240bbb3{/,null,AVAILABLE}
+15:41:44.785 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:41:44.788 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7b021054{/,null,AVAILABLE}
+15:42:26.750 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+15:42:26.752 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@45ac9ee{/,null,AVAILABLE}
+16:56:14.578 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+16:56:14.583 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1f2301fa{/,null,AVAILABLE}
+16:56:26.577 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+16:56:26.579 [nRepl-session-1ae96c60-7c37-43fc-b3b2-57b1294f5189] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@23a81081{/,null,AVAILABLE}
+16:56:42.695 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @10523ms to org.eclipse.jetty.util.log.Slf4jLog
+16:56:42.944 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+16:56:42.995 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@52214284{/,null,AVAILABLE}
+16:56:43.075 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@747fa2b5{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+16:56:43.077 [main] INFO  org.eclipse.jetty.server.Server - Started @10909ms
+16:56:43.251 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+16:56:43.253 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@17b41d39{/,null,AVAILABLE}
+17:01:14.311 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8654ms to org.eclipse.jetty.util.log.Slf4jLog
+17:01:14.454 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:01:14.484 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@59919f37{/,null,AVAILABLE}
+17:01:14.531 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4c6c2473{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:01:14.532 [main] INFO  org.eclipse.jetty.server.Server - Started @8877ms
+17:01:14.546 [main] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4c6c2473{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:01:14.547 [main] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@59919f37{/,null,STOPPED}
+17:02:14.302 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8313ms to org.eclipse.jetty.util.log.Slf4jLog
+17:02:14.439 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:02:14.466 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@7794926{/,null,AVAILABLE}
+17:02:14.513 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@33d2d3e2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:02:14.514 [main] INFO  org.eclipse.jetty.server.Server - Started @8526ms
+17:02:14.529 [main] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@33d2d3e2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:02:14.530 [main] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@7794926{/,null,STOPPED}
+17:02:42.008 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8410ms to org.eclipse.jetty.util.log.Slf4jLog
+17:02:42.139 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:02:42.173 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@5b58129f{/,null,AVAILABLE}
+17:02:42.230 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@26b3bc8f{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:02:42.230 [main] INFO  org.eclipse.jetty.server.Server - Started @8634ms
+17:02:42.246 [main] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@26b3bc8f{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:02:42.247 [main] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@5b58129f{/,null,STOPPED}
+17:05:42.344 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:05:42.346 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@538b4a13{/,null,AVAILABLE}
+17:05:42.348 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@455ef0db{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:05:42.348 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  org.eclipse.jetty.server.Server - Started @188763ms
+17:30:56.577 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@455ef0db{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:30:56.578 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@538b4a13{/,null,STOPPED}
+17:30:58.151 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:30:58.153 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@600ead8f{/,null,AVAILABLE}
+17:30:58.154 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@50eabefa{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:30:58.155 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  org.eclipse.jetty.server.Server - Started @1704488ms
+17:30:58.156 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@50eabefa{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:30:58.156 [nRepl-session-efac66e3-fb40-4763-9831-a0189ab873d5] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@600ead8f{/,null,STOPPED}
+17:31:12.650 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8451ms to org.eclipse.jetty.util.log.Slf4jLog
+17:31:12.813 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:31:12.845 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78cf80a2{/,null,AVAILABLE}
+17:31:12.898 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1e6311b2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:31:12.898 [main] INFO  org.eclipse.jetty.server.Server - Started @8701ms
+17:34:03.816 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8947ms to org.eclipse.jetty.util.log.Slf4jLog
+17:34:03.975 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:34:04.012 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@30ef773e{/,null,AVAILABLE}
+17:34:04.068 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6fab6ea2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:34:04.069 [main] INFO  org.eclipse.jetty.server.Server - Started @9202ms
+17:34:04.087 [main] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6fab6ea2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:34:04.088 [main] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@30ef773e{/,null,STOPPED}
+17:34:37.936 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8694ms to org.eclipse.jetty.util.log.Slf4jLog
+17:34:38.126 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:34:38.170 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78cf80a2{/,null,AVAILABLE}
+17:34:38.222 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1e6311b2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:34:38.223 [main] INFO  org.eclipse.jetty.server.Server - Started @8983ms
+17:34:38.243 [main] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@1e6311b2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:34:38.244 [main] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@78cf80a2{/,null,STOPPED}
+17:38:48.587 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @9477ms to org.eclipse.jetty.util.log.Slf4jLog
+17:38:48.762 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:38:48.789 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78cf80a2{/,null,AVAILABLE}
+17:38:48.836 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1e6311b2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:38:48.836 [main] INFO  org.eclipse.jetty.server.Server - Started @9729ms
+17:40:07.829 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8123ms to org.eclipse.jetty.util.log.Slf4jLog
+17:40:07.979 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:40:08.007 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78cf80a2{/,null,AVAILABLE}
+17:40:08.060 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1e6311b2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:40:08.060 [main] INFO  org.eclipse.jetty.server.Server - Started @8356ms
+17:40:42.687 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @8507ms to org.eclipse.jetty.util.log.Slf4jLog
+17:40:42.827 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:40:42.853 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@78cf80a2{/,null,AVAILABLE}
+17:40:42.899 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1e6311b2{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:40:42.899 [main] INFO  org.eclipse.jetty.server.Server - Started @8720ms
+17:41:25.981 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @9996ms to org.eclipse.jetty.util.log.Slf4jLog
+17:41:26.159 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:41:26.199 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@694ddb8b{/,null,AVAILABLE}
+17:41:26.248 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@65209f9b{HTTP/1.1, (http/1.1, h2c)}{localhost:8890}
+17:41:26.248 [main] INFO  org.eclipse.jetty.server.Server - Started @10266ms
+17:41:26.252 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-20T21:17:03.964Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 11.0.11+9-b1341.60
+17:41:26.253 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@480e6863{/,null,AVAILABLE}
